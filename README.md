@@ -1,5 +1,11 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jyotiswadhindibya-bit/jyotiswadhindibya-bit/main/banner.mp4" 
+       width="100%" 
+       alt="Jyoti coding and gaming banner"/>
+</p>
+
 # 💫 About Me:
-👋 Hi there, I'm Jyoti!<br>I am a Software Developer and B.Tech student passionate about building impactful digital solutions. I thrive at the intersection of robust backend logic and seamless frontend experiences, with a particular interest in leveraging AI to solve real-world challenges.<br><br>💻 Technical Skill Set<br>Languages: Java, C++, JavaScript<br><br>Backend: Spring Boot<br><br>Tools & DevOps: Git/GitHub, Vercel<br><br>Core Fundamentals: Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP)
+👋 Hi there, I'm Swadhin Dibya Jyoti!<br>I am a Software Developer and B.Tech student passionate about building impactful digital solutions. I thrive at the intersection of robust backend logic and seamless frontend experiences, with a particular interest in leveraging AI to solve real-world challenges.<br><br>💻 Technical Skill Set<br>Languages: Java, C++, JavaScript<br><br>Backend: Spring Boot<br><br>Tools & DevOps: Git/GitHub, Vercel<br><br>Core Fundamentals: Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP)
 
 
 ## 🌐 Socials:
