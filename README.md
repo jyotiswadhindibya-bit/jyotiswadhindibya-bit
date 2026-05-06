@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jyotiswadhindibya-bit/jyotiswadhindibya-bit/main/Banner.mp4" 
+  <img src="https://raw.githubusercontent.com/jyotiswadhindibya-bit/jyotiswadhindibya-bit/main/banner.gif" 
        width="100%" 
        alt="Jyoti coding and gaming banner"/>
 </p>
